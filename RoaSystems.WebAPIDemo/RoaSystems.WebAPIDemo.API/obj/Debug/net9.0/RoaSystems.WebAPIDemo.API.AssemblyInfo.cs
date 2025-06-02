@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoaSystems.WebAPIDemo.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c02765288b6c51210afdb4d1d35785cb24acd72b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9faa0b611959ca9f46b8692a35f1fc8636ce378")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoaSystems.WebAPIDemo.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoaSystems.WebAPIDemo.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
