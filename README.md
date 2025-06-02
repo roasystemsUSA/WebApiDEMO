@@ -1,4 +1,11 @@
 # WebApiDEMO
+Developed by Jose "Joe" Gustavo Roa de la Fuente
+Contact me:
+- On X me at @RoaSystemsUSA or @SystemsRoa
+- On LinkedIn, at linkedin.com/in/jose-roa-de-la-fuente-09a96b31
+- emailme at: gustavoroa@roasystems.com or roasystems@gmail.com
+
+
 This is an WebAPI demo intended to be an example for the use of the NuGet packages RoaSystems.Libraries.Model, RoaSystems.Libraries.Repositories and RoaSystems.Libraries.Services
 
 You can find these packages at:
